@@ -1,0 +1,8 @@
+Name Tron Orange Helmet
+ShortName tronbluehelmet
+ItemID 26347
+Icon tronorangehelmet
+Colour 255 255 255
+Type Hat
+Defence 0.1
+ArmourTexture gold2

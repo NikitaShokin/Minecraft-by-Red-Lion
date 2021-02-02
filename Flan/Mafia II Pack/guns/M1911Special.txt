@@ -1,0 +1,27 @@
+Name Colt M1911 Special
+ShortName M1911Special
+//The ammo this gun uses (shortName)
+Ammo M1911SpecialAmmo
+Icon M1911Special
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 23989
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 35
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 1
+//Number of bullet entities to create, useful for shotguns, defaults to 1
+NumBullets 1
+//Damage in half hearts
+Damage 2
+//The higher this value, the more the bullets spread
+Accuracy 1
+//Time in ticks between rounds
+ShootDelay 1
+ShootSound m1911Shoot
+ReloadSound m1911Reload
+Mode SemiAuto
+Scope m1911sight
+ZoomLevel 2
+Deployable False
+DeployedModel None

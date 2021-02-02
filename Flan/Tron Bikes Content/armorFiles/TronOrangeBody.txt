@@ -1,0 +1,8 @@
+Name Tron Orange Body
+ShortName tronorangebody
+ItemID 26345
+Icon tronorangebody
+Colour 255 255 255
+Type Chest
+Defence 0.1
+ArmourTexture gold2

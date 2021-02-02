@@ -1,0 +1,8 @@
+Name Tron Orange Boots
+ShortName tronorangeboots
+ItemID 26346
+Icon tronorangeboots
+Colour 255 255 255
+Type Boots
+Defence 0.1
+ArmourTexture gold2
