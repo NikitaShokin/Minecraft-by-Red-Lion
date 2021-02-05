@@ -126,6 +126,8 @@ config\mod_bspkrsCore.bsprop.cfg
 f345e260c4b460a2101054b70cd9a4c84b446147a07d46e38576ded03bc356e3
 config\mod_Gibs.cfg
 f37e6ed4439d5d8a41aaa7ca8f14792a5b9150707cecf5a652279a512b0f772d
+config\mod_MouseTweaks.cfg
+088c465f79d7e67035854c626788d9fe65d5c591c66c5f22d5c236b6fa82a15f
 config\mod_treecapitator.cfg
 ce369a7136e81cea313aac4dfea808f921d810a5fbf311e8f74b59e69120624c
 config\multiCraftingTable.cfg
@@ -175,7 +177,7 @@ Flan\properties.txt
 Mod manager\ModList.rml
 78625053bf140b1daf37d80931078b02773bd59da508ea506ad816427528fb95
 Mod manager\Red Lion's mod manager.exe
-e2fb77d393d7fd8bc9833b38654714aa0c1101d5ee768ec2f6250e9ac8e538a9
+b1e2797cb6b0016f05b79aa4bb1a47f75b619ec7a4bbfa3e96f03c80e54f380f
 mods\1.4.6-Mouse-Tweaks-BETA-4.zip
 24417d4abe016da158c700d047f1cb832997a09b46d3a12cb873702b45dc912f
 mods\1.4.7-Mine-Blade-Commander-0.0.7.jar
