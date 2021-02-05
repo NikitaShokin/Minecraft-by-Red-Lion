@@ -132,14 +132,6 @@ coremods\NotEnoughItems 1.4.7.0.jar
 13e1c5766911f6e8ff6f9dbc4b04a372a04d317c208a91f991c477de5208fef7
 Flan\properties.txt
 747b96096cdef77bc127c52d774882c2f7bb32b5487fb417c639a51d20868ffc
-lib\argo-2.25.jar
-23c0d36b2a2fb96e4ade1f5f9773a3a4995b72de730a40519b5b85f4139e4f20
-lib\asm-all-4.0.jar
-3a927e615f0b521ea10e051d38030cc50a7cd2bc8f716b959050c178792b6e82
-lib\bcprov-jdk15on-147.jar
-7fb12d09f041c294f08a0a51a2808438092273b51628eecaf2e0d0030b7556f5
-lib\guava-12.0.1.jar
-ec7f9928bc0cd5ca36b32bc3965055c49843d69ac1a9ccf380fdcc3f686af7fc
 Mod manager\ModList.rml
 b2fd8114fc29a6cfb528bbb02263f509b4983e6cb94f67ca683359ea4eae123b
 Mod manager\Red Lion's mod manager.exe
