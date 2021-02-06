@@ -1,3 +1,3 @@
 @echo off
-java -Xincgc? -Xmx2048M -jar server.jar nogui
+java -Xincgc? -Xmx2048M -jar server.jar
 pause
