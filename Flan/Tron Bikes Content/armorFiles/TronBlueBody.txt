@@ -1,8 +1,0 @@
-Name Tron Blue Body
-ShortName tronbluebody
-ItemID 26340
-Icon tronbluebody
-Colour 255 255 255
-Type Chest
-Defence 0.1
-ArmourTexture diamond2
