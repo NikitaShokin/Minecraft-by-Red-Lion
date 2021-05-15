@@ -48,6 +48,9 @@ True
 BuildCraft (Forge)
 mods\buildcraft-A-3.4.2.jar
 True
+BukkitForge (Forge)
+coremods\BukkitForge-1.4.7 probably fixed.jar
+True
 Chest Transporter (Forge)
 mods\chestTransporter_1.1.3_Universal.zip
 True
